@@ -15,6 +15,7 @@ module.exports = {
   rules: {
     'no-shadow': 'off',
     'no-undef': 'off',
+    'no-use-before-define': 'off',
     'jsx-a11y/anchor-is-valid': [
       'error',
       {
