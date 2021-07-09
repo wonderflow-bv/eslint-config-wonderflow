@@ -22,6 +22,10 @@ Extends the configuration from your local `eslintrc` configuration file:
 
 To add eslint typescript support you can extend the configuration by adding [the parser and the plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin).
 
+```sh
+npm i -D typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
+```
+
 ```json
 {
   "extends": "@wonderflow/eslint-config",
