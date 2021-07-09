@@ -5,7 +5,7 @@
 This repository contains the source code of Wonderflow eslint rules to ensure your JS is compliant with Wonderflow JS coding standards.
 
 ```sh
-npm i @wonderflow/eslint-config
+npm i -D @wonderflow/eslint-config
 ```
 
 ## Usage
