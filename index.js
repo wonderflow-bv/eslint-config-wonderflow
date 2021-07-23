@@ -11,8 +11,10 @@ module.exports = {
       jsx: true
     }
   },
-  plugins: ['jsx-a11y'],
+  plugins: ['jsx-a11y', 'react-hooks'],
   rules: {
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'error',
     'no-shadow': 'off',
     'no-undef': 'off',
     'no-use-before-define': 'off',
