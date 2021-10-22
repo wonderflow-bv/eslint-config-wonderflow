@@ -29,7 +29,7 @@
     "release": "semantic-release"
   },
   "peerDependencies": {
-    "eslint": "7"
+    "eslint": "7.x"
   },
   "devDependencies": {
     "@commitlint/cli": "13.2.1",
