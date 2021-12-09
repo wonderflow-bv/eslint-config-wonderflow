@@ -13,6 +13,7 @@ module.exports = {
   },
   plugins: ['jsx-a11y', 'react-hooks'],
   rules: {
+    'react/display-name': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'error',
     'no-shadow': 'off',
