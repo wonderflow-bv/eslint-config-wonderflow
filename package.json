@@ -1,7 +1,7 @@
 {
   "name": "@wonderflow/eslint-config",
   "description": "Wonderflow eslint sharable configuration",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "author": "Wonderflow",
   "license": "MIT",
   "main": "index.js",
