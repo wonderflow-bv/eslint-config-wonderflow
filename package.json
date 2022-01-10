@@ -29,7 +29,14 @@
     "release": "semantic-release"
   },
   "peerDependencies": {
-    "eslint": "7.x || 8.x"
+    "eslint": "7.x || 8.x",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-react": "7.28.0",
+    "eslint-plugin-react-hooks": "4.3.0"
   },
   "devDependencies": {
     "@commitlint/cli": "16.0.2",
@@ -46,13 +53,6 @@
     "semantic-release": "18.0.1"
   },
   "dependencies": {
-    "eslint-config-standard": "16.0.3",
-    "eslint-plugin-import": "2.25.4",
-    "eslint-plugin-jsx-a11y": "6.5.1",
-    "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "6.0.0",
-    "eslint-plugin-react": "7.28.0",
-    "eslint-plugin-react-hooks": "4.3.0",
     "is-ci": "3.0.1"
   }
 }
