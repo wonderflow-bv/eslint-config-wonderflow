@@ -29,11 +29,11 @@
     "release": "semantic-release"
   },
   "peerDependencies": {
-    "eslint": "7.x"
+    "eslint": "7.x || 8.x"
   },
   "devDependencies": {
-    "@commitlint/cli": "15.0.0",
-    "@commitlint/config-conventional": "15.0.0",
+    "@commitlint/cli": "16.0.2",
+    "@commitlint/config-conventional": "16.0.0",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "8.0.2",
     "@semantic-release/npm": "8.0.3",
@@ -41,17 +41,17 @@
     "commit-analyzer-fail-on-no-release": "1.0.1",
     "commitizen": "4.2.4",
     "cz-conventional-changelog": "3.3.0",
-    "eslint": "7.30.0",
+    "eslint": "8.6.0",
     "husky": "7.0.4",
     "semantic-release": "18.0.1"
   },
   "dependencies": {
     "eslint-config-standard": "16.0.3",
-    "eslint-plugin-import": "2.25.3",
+    "eslint-plugin-import": "2.25.4",
     "eslint-plugin-jsx-a11y": "6.5.1",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "5.2.0",
-    "eslint-plugin-react": "7.27.1",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-react": "7.28.0",
     "eslint-plugin-react-hooks": "4.3.0",
     "is-ci": "3.0.1"
   }
