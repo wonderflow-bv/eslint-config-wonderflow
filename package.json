@@ -39,7 +39,7 @@
     "@semantic-release/npm": "8.0.3",
     "@semantic-release/release-notes-generator": "10.0.3",
     "commit-analyzer-fail-on-no-release": "1.0.1",
-    "commitizen": "4.2.4",
+    "commitizen": "4.2.6",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "7.30.0",
     "husky": "7.0.4",
